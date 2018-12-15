@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "faux amazon like app",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natedogg484/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natedogg484/bamazon/issues"
+  },
+  "homepage": "https://github.com/natedogg484/bamazon#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "console.table": "^0.10.0",
+    "ctable": "0.0.3",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.8"
+  }
+}
